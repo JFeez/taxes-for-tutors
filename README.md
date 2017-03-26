@@ -28,7 +28,7 @@ This is important and has a large impact on your legal and tax status. Take a
 disadvatages](https://en.wikipedia.org/wiki/Independent_contractor#Advantages_and_disadvantages_to_contractors).
 
 What this really means is that you are now a business (specifically a sole
-proprieter). you have the same oppurtunities and obligations as any other
+proprieter); you have the same oppurtunities and obligations as any other
 business.
 
 In practice, this means that the bootcamp will not be witholding wages, nor
@@ -67,9 +67,9 @@ tutor getting sued.
   * *issuing stock* - should you want to issue stock, incorporating will let
     you do that. You might have to form a board and file quarterly meetings and
 other paperwork, though.
-  * *choice of jurisdiction* - maybe legally existing in Delware instead of
+  * *choice of jurisdiction* - maybe legally existing in Delaware instead of
     California has some advantage. IDK, check with a real lawyer.
-  * *registration fees* - In the state of california, this is around $800
+  * *registration fees* - In the state of California, this is around $800
     dollars - if you aren't clearing that amount, it isn't worth the effort.
 
 For me, those benefits haven't been strong enough to incorporate at this time.
@@ -86,24 +86,25 @@ That function is theoretcially increasing (in principle) and convex, and
 choosen by the government, so there's not much you can do about it's functional
 form.
 
-The main ways to get more take home pay:
+The traditional ways to make more money, as taught on cable news stations:
 
   * Increase Revenues - I've met several PhD students that under-price their
     services, eg $20/hour. In a world where my guitar teacher wants $30/30m and
 literally the only things he can do are smoke weed and shred, technical people
 should be taking the realities of the market into account. Don't fall for their
-sob story about how they just need a C to graduate, but they really can't go
-more than $30/hr.
+sob story about how they just need a C to graduate and their cat is about to
+die, but they really couldn't go higher than $13/hr.
   * Cut expenses - If a skype call works just as well driving over and paying
     $14 to park, skype away.
 
-The other big one is:
+The other big one is much less exciting:
 
 
 ### Accurately Reporting Expenses
 
 You are spending a lot on your business, whether you are accounting for it or
-not. You should not be paying taxes on expenses; this is America, dammit.
+not. *You should not be paying taxes on legitimate business expenses*; this is
+America, dammit.
 
 For example, to teach online, you need at a minimum:
 
@@ -122,6 +123,7 @@ To tutor in person, I need:
   * Legal pad and pens
   * Meeting space
     * Coffee bean requires a purchase
+    * Parking
 
 As a stats consultant, I require:
 
@@ -153,7 +155,8 @@ The IRS has rules for handling home-office expenses, traveling to conferences,
 
 You need a system for tracking everything so you don't spend a ton and then not
   claim it. That $3.35 for coffee when I tutored? Count that, it's like 2
-minutes of work I'm not paying taxes on.
+minutes of work I'm not paying taxes on, and after 30 sessions, it's a whole
+hour.
 
 
 
@@ -179,27 +182,32 @@ etc.
     [ledger](http://ledger-cli.org/) which is a text-file based system, which
 is very flexible, free, and open-source.  I've included my Makefile for
 generating income and balance statements, should anyone actually find that
-useful.
+useful. If the nuts and bolts of how to do this is in ledger is interesting,
+shoot me an email.
 
 
 ## Other types of taxes
 
 All of the above is pretty undergrad business major material, but there are a
-couple taxes worth pointing out:
+couple real world edge-cases worth pointing out:
 
-  * Sales Tax - If you are providing a good, you may be on the hook for sales
+  * Sales Tax - If you are providing goods, you may be on the hook for sales
     tax. You should know if you are or not at the time of billing, not next
-April.
+April. That said, all the sales tax your business paid should also be
+deductible. Generally not relevant to tutoring/consulting, unless you are also
+selling your own materials/book/etc.
   * Social Security - Since you are your own business, you will have to pay
-    double (yourself + business). It does phase out in the low six-figures,
-which can happen if you have a day job at Google or such. The State of
-California helpfully raises their state rate at the exact same point by about
-the same amount, so don't expect to notice, though.
+    double (yourself + invisible business withholding). It does phase out in
+the low six-figures, which can happen if you have a day job at Google or such.
+The State of California helpfully raises their state rate at the exact same
+point by about the same amount, so don't expect to take it home, though.
   * State Taxes - There's a chance that if a client lives in another state,
     that state will try to tax you. Generally, if you weren't a resident, they
 won't, but if you were there for a few months they may try. Depending on the
 difference between your home state and work state tax brackets, this could be
-advantageous. Talk to a pro before you try.
+advantageous. Also relevant if you move from LA to NYC for a summer internship.
+Talk to a pro before you try.
   * Late Fees - Businesses are suppossed to pay the IRS quarterly, and the IRS
-    will fine you if you cross some threshold. Next time, let turbotax print
-out the payment schedule for you, or adjust the withholding at your day job.
+    will fine them if they don't and make a certain amount of money. Next time,
+let turbotax print out the payment schedule for you, or adjust the withholding
+at your day job.
