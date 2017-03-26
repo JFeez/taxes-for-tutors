@@ -82,18 +82,20 @@ you that prefer equations:
 
 Taxes = f(Profit) = f(Revenues - Expenses)
 
-That function is theoretcially increasing (in principle) and convex, and
-choosen by the government, so there's not much you can do about it's functional
-form.
+That function is theoretically increasing and convex. You can't change the
+slope without some good lobbiests.
 
 The traditional ways to make more money, as taught on cable news stations:
 
-  * Increase Revenues - I've met several PhD students that under-price their
-    services, eg $20/hour. In a world where my guitar teacher wants $30/30m and
-literally the only things he can do are smoke weed and shred, technical people
-should be taking the realities of the market into account. Don't fall for their
-sob story about how they just need a C to graduate and their cat is about to
-die, but they really couldn't go higher than $13/hr.
+  * Increase Revenues
+    * Rates - *DO NOT UNDERCHARGE*. I've met several PhD students that
+      under-price their services, eg $20/hour. In a world where my guitar
+teacher wants $30/30m and literally the only things he can do are smoke weed
+and shred, technical people should be taking the realities of the market into
+account.  Don't fall for someone's sob story about how they just need a C to
+graduate and their cat is about to die, but they really couldn't go higher than
+$13/hr.
+    * Volume - Work more hours; less fun than charging more.
   * Cut expenses - If a skype call works just as well driving over and paying
     $14 to park, skype away.
 
