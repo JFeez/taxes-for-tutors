@@ -193,23 +193,23 @@ shoot me an email.
 All of the above is pretty undergrad business major material, but there are a
 couple real world edge-cases worth pointing out:
 
-  * Sales Tax - If you are providing goods, you may be on the hook for sales
+  * *Sales Tax* - If you are providing goods, you may be on the hook for sales
     tax. You should know if you are or not at the time of billing, not next
 April. That said, all the sales tax your business paid should also be
 deductible. Generally not relevant to tutoring/consulting, unless you are also
 selling your own materials/book/etc.
-  * Social Security - Since you are your own business, you will have to pay
+  * *Social Security* - Since you are your own business, you will have to pay
     double (yourself + invisible business withholding). It does phase out in
 the low six-figures, which can happen if you have a day job at Google or such.
 The State of California helpfully raises their state rate at the exact same
 point by about the same amount, so don't expect to take it home, though.
-  * State Taxes - There's a chance that if a client lives in another state,
+  * *State Taxes* - There's a chance that if a client lives in another state,
     that state will try to tax you. Generally, if you weren't a resident, they
 won't, but if you were there for a few months they may try. Depending on the
 difference between your home state and work state tax brackets, this could be
 advantageous. Also relevant if you move from LA to NYC for a summer internship.
 Talk to a pro before you try.
-  * Late Fees - Businesses are suppossed to pay the IRS quarterly, and the IRS
-    will fine them if they don't and make a certain amount of money. Next time,
-let turbotax print out the payment schedule for you, or adjust the withholding
-at your day job.
+  * *Late Fees* - Businesses are suppossed to pay the IRS quarterly, and the
+    IRS will fine them if they don't and make a certain amount of money. Next
+time, let turbotax print out the payment schedule for you, or adjust the
+withholding at your day job.
