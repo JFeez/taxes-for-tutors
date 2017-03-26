@@ -177,9 +177,9 @@ made and spent. Here a couple tips to do so:
 an excuse for BoA to charge you $30 / month, your local credit union should be
 able to give you one for free.
   * *Seperate Credit Card* - dude, earn those miles.
-  * *Keep those receipts* - I have a box that fills up with my receipts. Once a
-    year, I dump that into a ziploc, and staple that to my hard copy of taxes,
-etc.
+  * *Keep those receipts* - I dump receipts in to a box. Once a year, I dump
+    that into a ziploc, and staple that to my hard copy of taxes, etc. Also
+print out online statements, etc and dump them in too.
   * *Don't do accounting by hand* - at a minimum, make a spread sheet. I use
     [ledger](http://ledger-cli.org/) which is a text-file based system, which
 is very flexible, free, and open-source.  I've included my Makefile for
